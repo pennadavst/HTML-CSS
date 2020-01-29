@@ -1,6 +1,6 @@
 
 * This repository contain projects that were developed purely using HTML5 and CSS3.
-* All the projects are responsive for every screen size, except the "Welcome page" project.
+* All the projects(except "Welcome page") are responsive for all screen sizes.
 * The breakpoints for the screen sizes are as follows:
     *Small- 576px
     *Medium- 768px
