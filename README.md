@@ -13,7 +13,6 @@
 ***              ***
 *****   NOTE   *****
 ***              ***
-    In case if there is any problem in accessing the projects, please watch the video that was included in the _Project-intro 
-  folder.
+    In case if there is any problem in accessing the projects, please watch the video that was included in the _Project-intro folder.
   
 *This video gives you an idea of how the project looks like.
